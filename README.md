@@ -1,4 +1,4 @@
-# Machine learning (Model evaluation and validation) project
+# Machine learning (Model evaluation and validation)
 ## Boston-house-project
 Predicting Boston House Price
 
